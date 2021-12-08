@@ -8,4 +8,6 @@ IT周刊（第1期）: [weekly-20211206](weekly-20211206.md)
 
 详情参考：https://get.qiaobuqiao.com/post-5022  
 
+⚠️⚠️⚠️ 注意：如果使用镜像网站，不要登录，避免账户信息泄露
+
 ![image](https://user-images.githubusercontent.com/8253512/145137280-cfc55367-95ae-4bf5-91ae-f4a45cce0fcb.png)
