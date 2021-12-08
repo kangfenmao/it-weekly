@@ -47,3 +47,11 @@ https://ubuntu.com/engage/centos-live-q&A
 
 https://twitter.com/CentOS/status/1467856803975290886
 
+如何从 CentOS 8 迁移到 CentOS Stream
+
+Red Hat 正在从 CentOS 8 转变为 CentOS Stream。CentOS Stream 将自己置于 Fedora Linux 和 RHEL 之间。它不是 100% RHEL 克隆，而是领先于 RHEL 开发版。将其视为中游发行版。当然，如果你需要 100% RHEL 兼容性，那么你需要 Rocky Linux 或 AlmaLinux。但是，CentOS 流对我来说已经足够了，因为我的用例只需要 Apache、Perl 和 Python。本页解释了如何在不重新安装新操作系统的情况下将 CentOS 8 stable 的现有安装迁移到 CentOS Stream。
+
+CentOS Stream 是一个开源操作系统，是 CentOS 8 的替代候选之一。但是，我决定坚持使用 CentOS Stream，因为我没有时间或精力安装新的替代品，例如 Rocky Linux 或 AlmaLinux。然后恢复数据。这对我的业余项目来说太多了。最终，我会将我的旧应用程序转换为 Docker 格式，但现在，我将升级我的 VM 并节省一些时间。因此，事不宜迟，让我们看看如何使用 ssh 命令从 CentOS 8 迁移到 CentOS Stream。
+
+https://www.cyberciti.biz/howto/upgrade-migrate-from-centos-8-to-centos-stream-conversion/
+
