@@ -14,13 +14,15 @@ IT周刊（第1期）: [weekly-20211206](weekly-20211206.md)
 
 ## 新版本 itellyou.cn
 
+ITellYou(MSDN，我告诉你)：是一个人性质的原版软件信息收录站点，你可从上面获取各种各样的MSDN资源，包括开发人员工具、设计人员工具、各版本Windosws操作系统和服务系统，以及各种应用程序。
+
 ![image](https://user-images.githubusercontent.com/8253512/145138539-9a981ea6-3e1f-45ae-9f5a-ddd1c296ce17.png)
 
-网站新版开放测试，新增扩展内容、BT资源，更适合新手，欢迎使用指正，网址：https://next.itellyou.cn。 已更新Windows 11。
+目前网站正在经历一次全新改版，新增扩展内容、BT资源，可下载到最新的 Windows 11。网址：https://next.itellyou.cn
 
 ![image](https://user-images.githubusercontent.com/8253512/145138352-f70f9644-41bb-4500-8137-487ced116cbb.png)
 
-## 曝快手大幅裁员！大厂的冬天难过啊
+## 曝快手大幅裁员
 
 ![image](https://user-images.githubusercontent.com/8253512/145141823-31f74a2e-1bc7-4dde-ae26-f0b500f798e6.png)
 
@@ -31,7 +33,7 @@ IT周刊（第1期）: [weekly-20211206](weekly-20211206.md)
 [爱奇艺裁员千人](https://www.thepaper.cn/newsDetail_forward_15656767)  
 [曝快手大幅裁员](https://www.163.com/dy/article/GQKV5G5J0519QQUP.html)
 
-## Ubuntu 将逐步取代 Centos
+## Ubuntu 将逐步取代 CentOS
 
 ![image](https://user-images.githubusercontent.com/8253512/145144296-373656d5-bc45-4b54-86aa-57a4ab5664ae.png)
 
