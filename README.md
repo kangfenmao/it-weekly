@@ -30,3 +30,9 @@ IT周刊（第1期）: [weekly-20211206](weekly-20211206.md)
 
 [爱奇艺裁员千人](https://www.thepaper.cn/newsDetail_forward_15656767)  
 [曝快手大幅裁员](https://www.163.com/dy/article/GQKV5G5J0519QQUP.html)
+
+## Ubuntu 将逐步取代 Centos
+
+![image](https://user-images.githubusercontent.com/8253512/145144296-373656d5-bc45-4b54-86aa-57a4ab5664ae.png)
+
+https://ubuntu.com/engage/centos-live-q&A
