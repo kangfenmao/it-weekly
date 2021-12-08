@@ -36,3 +36,8 @@ IT周刊（第1期）: [weekly-20211206](weekly-20211206.md)
 ![image](https://user-images.githubusercontent.com/8253512/145144296-373656d5-bc45-4b54-86aa-57a4ab5664ae.png)
 
 https://ubuntu.com/engage/centos-live-q&A
+
+![image](https://user-images.githubusercontent.com/8253512/145144463-37f08e50-8cc4-449a-a8d4-85cff7f9709b.png)
+
+https://twitter.com/CentOS/status/1467856803975290886
+
