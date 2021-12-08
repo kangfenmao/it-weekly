@@ -35,9 +35,13 @@ ITellYou(MSDN，我告诉你)：是一个人性质的原版软件信息收录站
 
 ## Ubuntu 将逐步取代 CentOS
 
+Ubuntu 官方将直播小组会议告诉你如何快速从 CentOS/RHEL 迁移到 Ubuntu
+
 ![image](https://user-images.githubusercontent.com/8253512/145144296-373656d5-bc45-4b54-86aa-57a4ab5664ae.png)
 
 https://ubuntu.com/engage/centos-live-q&A
+
+官方发布 CentOS Stream 9 现已推出并准备试用，并发文详细介绍 [Introducing CentOS Stream 9](https://blog.centos.org/2021/12/introducing-centos-stream-9/)
 
 ![image](https://user-images.githubusercontent.com/8253512/145144463-37f08e50-8cc4-449a-a8d4-85cff7f9709b.png)
 
